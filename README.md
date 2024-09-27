@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ayoub-vuxc
+- 👋 Hi, I’m @Vuxc
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Cybersecurity
 
