@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Vuxc
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Cybersecurity
+- 👋 Hello , freshly graduate in cyber security , looking for innovative projects/opportunities.
 
 <!---
 ayoub-vuxc/ayoub-vuxc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
